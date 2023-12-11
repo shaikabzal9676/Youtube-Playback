@@ -6,10 +6,6 @@ const VideoPlayer = ({ videoId }) => {
 
   const [videoData, setVideoData] = useState(null);
 
-
-
-
-
 useEffect(() => {
     const fetchData = async () => {
       try {
