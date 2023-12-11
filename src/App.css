@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container{
+  background-color: lightcyan;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction:column;
+  gap: 2rem;
+}
+
+.container{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.videoStyle h3{
+  color: rgb(121, 55, 55);
+  margin-bottom: 1rem;
+}
