@@ -1,7 +1,7 @@
 import React from 'react';
 import VideoPlayer from './VideoPlayer';
 
-import './app.css'
+import './App.css'
 const App = () => {
   
   const videoId = 'AeotmhavO8g';
